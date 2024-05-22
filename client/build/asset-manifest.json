@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.33ca139f.css",
+    "main.js": "/static/js/main.4db3bb4e.js",
+    "static/js/453.419a5d54.chunk.js": "/static/js/453.419a5d54.chunk.js",
+    "static/media/video.mp4": "/static/media/video.e4cfc8d1d83ff38880fc.mp4",
+    "static/media/2.jpg": "/static/media/2.57430b96d94f9ce27e50.jpg",
+    "static/media/4.jpg": "/static/media/4.2f62022d0a5004b2288f.jpg",
+    "static/media/google.png": "/static/media/google.848d7ac436bd2a07bb34.png",
+    "static/media/car.jpg": "/static/media/car.5966d942be128ec45d1b.jpg",
+    "static/media/mechanic.jpg": "/static/media/mechanic.92c0faceab91f36eefc1.jpg",
+    "static/media/polishingf.jpg": "/static/media/polishingf.27c4dce7d5c23a0600c5.jpg",
+    "static/media/electric.jpg": "/static/media/electric.fd8b2c1a15563037579d.jpg",
+    "static/media/painting.jpg": "/static/media/painting.818a91be98477a79a84c.jpg",
+    "static/media/valid.png": "/static/media/valid.ce166981bf40dcf75d04.png",
+    "static/media/octanepic.jpeg": "/static/media/octanepic.e5e83677bfa395dc6e5b.jpeg",
+    "static/media/logo.png": "/static/media/logo.1d3e5936e563d16bc5e4.png",
+    "index.html": "/index.html",
+    "main.33ca139f.css.map": "/static/css/main.33ca139f.css.map",
+    "main.4db3bb4e.js.map": "/static/js/main.4db3bb4e.js.map",
+    "453.419a5d54.chunk.js.map": "/static/js/453.419a5d54.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.33ca139f.css",
+    "static/js/main.4db3bb4e.js"
+  ]
+}
